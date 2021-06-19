@@ -1,3 +1,3 @@
 # code_webnangcao 
 
-sử dụng file. quantriscrip.sql
+sử dụng file cơ sở dữ liệu:     quantriscript.sql
